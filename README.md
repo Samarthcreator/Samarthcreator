@@ -64,19 +64,19 @@
 
 <table cellpadding="0">
 <tr style="padding: 0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manishself25&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saamarthcreator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
 </tr>
 </table>
 
 <table cellpadding="0">
 <tr style="padding: 0">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=manishself25&show_icons=true&locale=en&theme=github_dark" alt="manishself25" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Samarthcreator&show_icons=true&locale=en&theme=github_dark" alt="manishself25" />
 </tr>
 </table>
 
 <table cellpadding="0">
 <tr style="padding: 0">
-&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=manishself25&theme=dark" alt="manishself25" />
+&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarthcreator&theme=dark" alt="manishself25" />
 </tr>
 </table>
 
