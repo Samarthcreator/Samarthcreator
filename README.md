@@ -73,11 +73,12 @@
 &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Samarthcreator&show_icons=true&locale=en&theme=github_dark" alt="manishself25" />
 </tr>
 </table>
-
+<!--
 <table cellpadding="0">
 <tr style="padding: 0">
 &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarthcreator&theme=dark" alt="manishself25" />
 </tr>
 </table>
+-->
 
 <h1></h1>
