@@ -64,7 +64,7 @@
 
 <table cellpadding="0">
 <tr style="padding: 0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saamarthcreator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samarthcreator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
 </tr>
 </table>
 
