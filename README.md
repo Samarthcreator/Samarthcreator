@@ -64,13 +64,13 @@
 
 <table cellpadding="0">
 <tr style="padding: 0">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samarthcreator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="manishself25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samarthcreator&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="Samarthcreator" />
 </tr>
 </table>
 
 <table cellpadding="0">
 <tr style="padding: 0">
-&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Samarthcreator&show_icons=true&locale=en&theme=github_dark" alt="manishself25" />
+&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Samarthcreator&show_icons=true&locale=en&theme=github_dark" alt="Samarthcreator" />
 </tr>
 </table>
 <!--
